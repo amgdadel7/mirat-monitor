@@ -1,0 +1,2 @@
+# Mirat utilizes Python Standard Library (stdlib) only.
+# No external dependencies required.
